@@ -5,7 +5,7 @@ This project involves analyzing credit card user data to derive insights and cre
 
 **Key Features**
 
-* Data Cleaning: Transformed raw data into a structured format using Power Query.
+* Data Cleaning: Transformed raw data into a structured format using Power Query. 
   
 *Interactive Dashboards: Designed dynamic visuals to analyze spending patterns, payment behavior, and customer demographics.
 
